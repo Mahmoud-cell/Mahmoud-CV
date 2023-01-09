@@ -27,7 +27,7 @@ const Home = () => {
               <button onClick={() => route("Port")}>Portfolio</button>
             </li>
             <li>
-              <a href="https://drive.google.com/file/d/1Faju9RobtRhBInLPMbMZ4Oh3GFVOsNit/view?usp=share_link">
+              <a href="https://drive.google.com/file/d/1l0FylKoiWHDey2WT-5xvAYKY-IF9D8tg/view?usp=share_link">
                 Download CV
               </a>
             </li>
