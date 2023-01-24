@@ -11,28 +11,28 @@ const Portfolio = () => {
           <i className="fa fa-tags"></i> Auto Car
         </h3>
         <p>Cars Site</p>
-        <a href="https://mahmoud-cell.github.io/auto-car/">Live Preview!</a>
+        <a href="mahmoud-cell.github.io/auto-car/">Live Preview!</a>
       </div>
       <div className="port-box">
         <h3>
           <i className="fa fa-tags"></i> Maglin
         </h3>
         <p>Furniture Site</p>
-        <a href="https://mahmoudlearngithub.github.io/maglin/">Live Preview!</a>
+        <a href="mahmoud-cell.github.io/maglin/">Live Preview!</a>
       </div>
       <div className="port-box">
         <h3>
           <i className="fa fa-tags"></i> Sharks
         </h3>
         <p>Big Organization Site</p>
-        <a href="https://mahmoudlearngithub.github.io/shark/">Live Preview!</a>
+        <a href="mahmoud-cell.github.io/shark/">Live Preview!</a>
       </div>
       <div className="port-box">
         <h3>
           <i className="fa fa-tags"></i> Elmoharer
         </h3>
         <p>News Site</p>
-        <a href="https://mahmoudlearngithub.github.io/elmoharer/">Live Preview!</a>
+        <a href="mahmoud-cell.github.io/elmoharer/">Live Preview!</a>
       </div>
       <div className="port-box">
         <h3>
